@@ -10,7 +10,7 @@ Negar Koushki (my TA), Shannon Ryan (my project partner) *not sure which one you
 
 #### Project title
 
-Dune University
+Doom University
 
 ***
 
